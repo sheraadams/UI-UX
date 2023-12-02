@@ -12,6 +12,8 @@ The focus of this study is to ensure that the mobile and web calculation apps ar
 
 •	Is the content alternative text correctly translated into Nigerian?
 
+•	Is the content alternative text correctly translated into English?
+
 ## Methodology:
 
 We used a moderated study design, survey selection, and post-use interview format.  No responses were recorded, but answers were instead documented during the interview.
@@ -55,4 +57,13 @@ Problem: Rachel is a Nigerian-Speaking student who needs a calculus learning app
 | Constraints |	6-week time constraint, limited budget, single developer / single designer, small team. |
 | Key Insights	| •	Darker colors were preferred by those with visual impairment for higher contrast. •	Alternative texts were helpful in Spanish. •	Alternative texts were helpful in Nigerian. •	We also saw improved user engagement measures associated with alternative texts in English compared with no alternative texts for English users. |
 
+## The App
+| Project Description | Project Image Preview |
+| --- | --- |
+| Calculus Helper is an [antiderivative and derivative calculator](https://github.com/sheraadams/Derivative-and-Integral-Calculator) programmed to assist with mathematical modeling. This is the desktop application.  |  ![Screenshot 2023-12-02 113953](https://github.com/sheraadams/UI-UX/assets/110789514/b9b8189b-60a3-4ad5-959f-b7203a0363bb)|
+| This is the [Java Android mobile app version](https://github.com/sheraadams/Calculus-Helper-Android-App). It has new graphing features to visualize derivatives, integrals, or both. High-contrast colors were selected to allow greater accessibility to those with visual impairments.  |![ndroid calc2](https://github.com/sheraadams/sheraadams/assets/110789514/8b1a979f-c291-4670-a8f0-5cc102c9bf68)|
 
+## Roadmap and Going Forward
+
+Multi-language alternative text research and implementations are still required.
+Java is recommended for the responsive website. 
