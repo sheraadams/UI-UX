@@ -1,9 +1,11 @@
 # Math Graphing and Calculator App User Research
 
 ## About the Project: 
+
 The focus of this study is to ensure that the mobile and web calculation apps are accessible to those with visual impairments and that it is translated into each supported language (Nigerian and Spanish).
 
 ## Questions: 
+
 •	Is the contrast sufficient for those with moderate visual impairment to see the content without additional visual aids?
 
 •	Is the content alternative text correctly translated into Spanish?
@@ -11,6 +13,7 @@ The focus of this study is to ensure that the mobile and web calculation apps ar
 •	Is the content alternative text correctly translated into Nigerian?
 
 ## Methodology:
+
 We used a moderated study design, survey selection, and post-use interview format.  No responses were recorded, but answers were instead documented during the interview.
 
 ## KPIs (Key performance indicators)
@@ -23,6 +26,7 @@ We used a moderated study design, survey selection, and post-use interview forma
 •	Ease of use of navigation
 
 # Personas 
+
 Carla: As a visually impaired woman I want a more accessible user experience with high-contrast designs that are easy to read so that I can use the site like those without vision impairment.  
 Problem: Carla is a moderately visually impaired student who needs a calculus learning application that uses a high-contrast design because neutral colors are difficult for her to see.
 
@@ -34,14 +38,13 @@ Problem: Rachel is a Nigerian-Speaking student who needs a calculus learning app
 
 ## Bottom-up mobile-first design
 
-Device	Dimensions:
 - Android	Samsung Galaxy S21 is the most common Android model.	Dimensions: 151.7 x 71.2 x 7.9 mm (5.97 x 2.80 x 0.31 in)
 - Desktop 24”	is the most common desktop size.	Dimensions: 1920 x 1080 pixels
 - Desktop Ultra Wide is the largest expected resolution. Dimensions:	3440 x 1440
 
 ## Case Study
 <!-- TABLE -->
-| Project Description | Project Image Preview |
+| Category | Description |
 | --- | --- |
 | Introduction | The focus of this study is to ensure that the mobile and web calculation apps are accessible to those with visual impairments and that it is translated into each supported language (Nigerian and Spanish).
 | Research Questions	| •	Is the contrast sufficient for those with moderate visual impairment to see the content without additional visual aids? •	Is the content alternative text correctly translated into Spanish? •	Is the content alternative text correctly translated into Nigerian?|
